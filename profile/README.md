@@ -9,6 +9,7 @@
   [![App Store](https://img.shields.io/badge/App_Store-iOS-black?style=flat-square&logo=apple)](https://apps.apple.com/app/hooktap/id6670671021)
   [![Website](https://img.shields.io/badge/hooktap.me-website-red?style=flat-square)](https://hooktap.me)
   [![Integrations](https://img.shields.io/badge/integrations-open_source-orange?style=flat-square&logo=github)](https://github.com/HookTap/hooktap-integrations)
+  [![GitHub Action](https://img.shields.io/badge/GitHub_Action-notify--action-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/marketplace/actions/hooktap-notify)
 </div>
 
 ---
@@ -45,7 +46,8 @@ HookTap gives you a personal webhook URL. Anything that sends an HTTP POST — a
 
 | Repo | Description |
 |---|---|
-| [hooktap-integrations](https://github.com/HookTap/hooktap-integrations) | Open-source recipes — GitHub Actions, Python, Node.js, Shell, Docker, Zapier, and more |
+| [notify-action](https://github.com/HookTap/notify-action) | GitHub Action — one step to send iPhone notifications from any workflow |
+| [hooktap-integrations](https://github.com/HookTap/hooktap-integrations) | Open-source recipes — Python, Node.js, Shell, Docker, Zapier, and more |
 | [hooktap-landing](https://github.com/HookTap/hooktap-landing) | Marketing site (Next.js, public for transparency) |
 
 ---
